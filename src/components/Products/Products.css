@@ -1,0 +1,15 @@
+.products__list {
+    display: flex;
+    margin-left: -8px;
+    margin-right: -8px;
+    flex-wrap: wrap;
+}
+.products__title {
+    font-family: Helvetica,sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    font-size: 26px;
+    line-height: 32px;
+    margin-bottom: 20px;
+}
